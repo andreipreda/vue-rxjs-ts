@@ -1,7 +1,7 @@
 {
-  "name": "bluejeans",
+  "name": "vue-rxjst-test",
   "version": "1.0.0",
-  "description": "Web tool to filter blue jeans sales history",
+  "description": "Vue & Rxjs example app tool to filter sales orders history",
   "main": "dist/index.js",
   "author": "Andrei Preda",
   "license": "MIT",
