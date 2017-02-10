@@ -1,15 +1,19 @@
 # vue-rxjs-ts
-Test Vuejs working with Rxjs
+Test Vuejs working with Rxjs with an example of a filter/table update
 
 ## Install / Run
 
-npm install
+After cloning the repo,
 
-or 
+```bash
+cd vue-rxjs-ts
+```
+```bash
+npm install (or) yarn install
+```
 
-yarn install
+```bash
+npm run server
+```
 
-
-npm run webpack
-
-open http://localhost:9000
+open [http://localhost:9000](http://localhost:9000)
